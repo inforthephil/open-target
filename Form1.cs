@@ -83,6 +83,8 @@ namespace test_arduinomini
                 missSound.Play();
                 button1.Text = "OFF";
                 status = false;
+
+                
             }
             else
             {

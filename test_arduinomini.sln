@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_arduinomini", "test_arduinomini.csproj", "{03DF02F8-F285-4695-9822-1770A771E828}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16A92762-D086-4DCB-A91E-327273AF7280}"
+	ProjectSection(SolutionItems) = preProject
+		Target.cs = Target.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

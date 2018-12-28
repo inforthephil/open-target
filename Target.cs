@@ -21,4 +21,10 @@ public class Target
         blue = b;
     }
 
+    string ping()
+    {
+        string s = idNo + ",ping";
+        return s;
+    }
+
 }
