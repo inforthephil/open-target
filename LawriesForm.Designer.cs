@@ -1,6 +1,6 @@
 ﻿namespace test_arduinomini
 {
-    partial class Form1
+    partial class LawriesForm
     {
         /// <summary>
         /// Required designer variable.
